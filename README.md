@@ -56,6 +56,6 @@
 
 ###
 
-![Pac-Man animation](https://github.com/<seu-usuario>/<seu-usuario>/blob/output/pacman-contribution-graph.svg)
+![Pac-Man animation](https://github.com/caioy0/caioy0/blob/output/pacman-contribution-graph.svg)
 
 ###
