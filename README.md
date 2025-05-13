@@ -16,9 +16,6 @@
 
 <h2 align="left">💻 Tech skills</h2>
 
-###
-
-### 👨‍💻 Tech
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
@@ -43,7 +40,7 @@
 
 ---
 
-### 🧰 Ferramentas & Plataformas
+### 🧰 Tools & Desktop
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
@@ -66,7 +63,7 @@
 
 ---
 
-### 🧠 Ciência de Dados & AI
+### 🧠 AI
 <div align="left">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" height="40" alt="PyTorch" />
 </div>
@@ -91,7 +88,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=caioy0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="145" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caioy0&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=caioy0&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
