@@ -48,6 +48,9 @@
   <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white" height="40" alt="Windows Terminal" />
   <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white" height="40" alt="Bash" />
   <img src="https://img.shields.io/badge/arduino-%2300979D.svg?style=flat&logo=arduino&logoColor=white" height="40" alt="Arduino" />
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white" height="40" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" height="40" alt="Canva" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" height="40" alt="Figma" />
 </div>
 
 ---
@@ -59,23 +62,10 @@
   <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white" height="40" alt="DynamoDB" />
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white" height="40" alt="Prisma" />
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white" height="40" alt="Flask" />
-</div>
-
----
-
-### 🧠 AI
-<div align="left">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" height="40" alt="PyTorch" />
 </div>
 
 ---
-
-### 🎨 Design
-<div align="left">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white" height="40" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" height="40" alt="Canva" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" height="40" alt="Figma" />
-</div>
 
 ###
 
