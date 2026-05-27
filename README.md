@@ -79,4 +79,6 @@ My name is Caio, nice to meet you.
   <img height="150" src="https://media.giphy.com/media/2XHnfuSevuOyY/giphy.gif?cid=ecf05e47in9zvoysujho7ff3rlewfmwy9ccz5cl24ir37vx0&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioy0&layout=compact&theme=dracula)   
+
 ![Pac-Man animation](https://github.com/caioy0/caioy0/blob/output/pacman-contribution-graph.svg)
